@@ -32,5 +32,5 @@ ________________________________________________________________________________
 	3.	index.js
 	4.	drawButton.jpg
 	5.	moveButton.jpg	
-	6.	eraseButton.jpg
+	6.	clearButton.jpg
 	7.	moveRandom.jpg
