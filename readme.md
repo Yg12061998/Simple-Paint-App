@@ -1,6 +1,6 @@
 
 		Paint Application for Rectangle
-		Pallavi Singh
+		Yogesh Gupta
 ______________________________________________________________________________________________________________________________________
 
 	Following tasks has been carried in this application using HTML5 Canvas Element
